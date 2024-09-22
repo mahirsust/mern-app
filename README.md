@@ -2,6 +2,9 @@
 
 A simple E-commerce MERN stack application for managing products. This application allows users to create, view, edit, and delete products using MongoDB, Express, React, and Node.js.
 
+### MERN App URL
+[MERN App](https://mern-app-d6q9.onrender.com/)
+
 ## Features
 
 - Create new products
