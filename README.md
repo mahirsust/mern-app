@@ -79,15 +79,10 @@ The application will run on another port for the frontend.
 
 #### In Production Mode
 
-If you want update the changes you have made, then execute the following command in the root folder (**mern-app**) at first.
+Execute this command given below in the root folder (**mern-app**).
 
 ```bash
 npm run build
-```
-
-Otherwise, execute this command given below in the root folder (**mern-app**).
-
-```bash
 npm run start
 ```
 
